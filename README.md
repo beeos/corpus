@@ -9,3 +9,8 @@
   * GH-Num: GH-26
   * User#Num: jlord#26
   * User/Repository#Num: jlord/sheetsee.js#26
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item #1
